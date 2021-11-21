@@ -3,7 +3,7 @@
 This is a hollywood movie recommendation system built with Python. I have used IMDB 5000 Movie Dataset to built this.
 Link to dataset :- https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
-Link to the web application :- https://movierecommendationappheroku.herokuapp.com/
+Link to the web application :- https://polar-basin-99924.herokuapp.com/
 
 I have used Flask framework to built web app.
 
@@ -23,8 +23,3 @@ I have used Flask framework to built web app.
 ![nbd](https://user-images.githubusercontent.com/61036755/82662166-00e96f00-9c4b-11ea-9f5e-1a5ac3486463.png)
 
 <hr>
-
-
-
-If you like this repo, please don't forget to give a ⭐.
-
